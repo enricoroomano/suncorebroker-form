@@ -1,0 +1,40 @@
+STRICT PROPRIETARY LICENSE AND TERMS OF USE
+
+Copyright (c) 2026 Developed by Enrico Romano for Suncore Broker.
+All rights reserved worldwide.
+
+1. DEFINITIONS
+"Software" refers to all source code, HTML structures, CSS stylesheets, JavaScript functionality, Google Apps Script integrations, API endpoints, user interfaces, design assets, underlying algorithms, documentation, and any related materials contained within this repository or project.
+"Copyright Holders" refers jointly and severally to [Your Name] (the Developer) and [Client Company Name] (the Client).
+
+2. EXCLUSIVE PROPRIETARY RIGHTS
+This Software is the exclusive proprietary property of the Copyright Holders. It is NOT open-source. All intellectual property rights, trademarks, and copyrights are reserved under international copyright treaties (including the Berne Convention) and all applicable domestic laws.
+
+3. STRICT PROHIBITION OF USE AND DISTRIBUTION
+Except as expressly mandated by the minimum requirements of Section 4, the following actions are strictly and expressly prohibited without prior, explicit, written, and signed consent from the Copyright Holders:
+a) Copying, duplicating, cloning, or reproducing the Software in whole or in part.
+b) Distributing, sharing, publishing, transmitting, or hosting the Software.
+c) Modifying, adapting, translating, or creating derivative works based upon the Software.
+d) Using the Software or any portion of its code to operate a website, web form, application, or business tool.
+e) Selling, sublicensing, leasing, renting, or commercializing the Software.
+
+4. LIMITED GITHUB PLATFORM EXCEPTION
+To the extent that this Software is hosted on a public GitHub repository, the Copyright Holders grant users of the GitHub platform ONLY the minimum, non-transferable, and revocable technical rights explicitly mandated by the GitHub Terms of Service. Specifically, users may:
+a) View the code through the GitHub.com user interface.
+b) Perform an on-platform "fork" within the GitHub ecosystem.
+This exception strictly DOES NOT grant any right to download, deploy, export, or execute the Software outside of the GitHub.com platform, nor does it grant any right to use a forked version for any functional, personal, or commercial purpose.
+
+5. PROHIBITION OF REVERSE ENGINEERING
+You are strictly prohibited from reverse engineering, decompiling, disassembling, or attempting to extract proprietary processes, backend logic, or Google Sheets/Apps Script integrations from this Software. 
+
+6. PROHIBITION OF AUTOMATED SCRAPING AND AI TRAINING
+Automated harvesting, data mining, or scraping of this repository is strictly prohibited. The use of this Software, in whole or in part, as a dataset or input to train, fine-tune, or develop Artificial Intelligence (AI) systems, Machine Learning models, or Large Language Models (LLMs) is expressly forbidden.
+
+7. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, DATA INTEGRITY, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, BUG EXPLOIT, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. INDEMNIFICATION
+Any person or entity who unlawfully copies, deploys, or utilizes this Software agrees to indemnify, defend, and hold harmless the Copyright Holders from any claims, damages, liabilities, and expenses (including legal fees) arising from their unauthorized use.
+
+9. ENFORCEMENT AND LEGAL REMEDIES
+Unauthorized use, copying, or distribution of this Software constitutes deliberate copyright infringement and misappropriation of intellectual property. The Copyright Holders actively monitor for unauthorized usage and reserve the right to pursue all available legal and equitable remedies. This includes, but is not limited to, issuing Digital Millennium Copyright Act (DMCA) takedown notices, seeking immediate injunctive relief, demanding statutory and punitive damages, claiming restitution of any generated profits, and recovering all legal fees and costs incurred during enforcement actions.
